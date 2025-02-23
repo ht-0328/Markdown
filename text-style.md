@@ -3,8 +3,8 @@
 ## 書き方
 
 ```markdown
-**太字** <- Ctrl+B
-_Italic_ <- Ctrl+I
+**太字** or 「Ctrl + B」
+_Italic_ or 「Ctrl + I」
 **_BOLD + Italic_**
 ~~打ち消し線~~
 `インラインコード`
