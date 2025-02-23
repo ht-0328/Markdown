@@ -14,6 +14,3 @@ GitHubでMarkdownを使うための基本的な構文をまとめたチートシ
 - [絵文字 & 特殊記号](./emoji.md)
 
 各機能を簡単に確認できるように、それぞれのファイルにまとめました。
-
-<span style="color: red;">赤色のテキスト</span>
-<span style="color: blue;">青色のテキスト</span>
