@@ -15,9 +15,11 @@ _Italic_ or 「Ctrl + I」
 - 「**_BOLD + Italic_**(斜体 + 太字)」
 - 「~~打ち消し線~~」
 - 「`インラインコード`」
+- 「<sub>上付き文字</sub>」
+- 「<sup>下付き文字</sup>」
 
-※斜体は、日本語だとうまく表示されないので注意　
+
+**※斜体は、日本語だとうまく表示されないので注意　**
 
 https://github.com/missing-semester-jp/missing-semester-jp.github.io/issues/18
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
