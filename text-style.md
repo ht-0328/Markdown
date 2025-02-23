@@ -26,3 +26,5 @@ _Italic_ or 「Ctrl + I」
 
 https://github.com/missing-semester-jp/missing-semester-jp.github.io/issues/18
 
+<span style="color: red;">赤色のテキスト</span>
+<span style="color: blue;">青色のテキスト</span>
