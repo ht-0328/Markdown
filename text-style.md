@@ -22,9 +22,7 @@ _Italic_ or 「Ctrl + I」
 - 「<sup>下付き文字</sup>」
 - 「<ins>下線</ins>」
 
-<span style="color: red;">※現状、日本語の斜体表示はできないようなので注意</span>
+**※現状、日本語の斜体表示はできないようなので注意**
 
 https://github.com/missing-semester-jp/missing-semester-jp.github.io/issues/18
 
-<span style="color: red;">赤色のテキスト</span>
-<span style="color: blue;">青色のテキスト</span>
