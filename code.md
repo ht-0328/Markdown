@@ -2,11 +2,13 @@
 
 ## 書き方
 
+- bash
 ```bash
 #!/bin/bash
 echo "Hello, World!"
 ```
 
+- JavaScript
 ```javascript
 function greet() {
     console.log("Hello, World!");
@@ -14,6 +16,7 @@ function greet() {
 greet();
 ```
 
+- TypeScript
 ```typescript
 function greet(): void {
     console.log("Hello, World!");
@@ -21,6 +24,7 @@ function greet(): void {
 greet();
 ```
 
+- Pyhon
 ```python
 def greet():
     print("Hello, World!")
@@ -28,12 +32,14 @@ def greet():
 greet()
 ```
 
+- Kotlin
 ```kotlin
 fun main() {
     println("Hello, World!")
 }
 ```
 
+- Java
 ```java
 public class Main {
     public static void main(String[] args) {
@@ -42,11 +48,12 @@ public class Main {
 }
 ```
 
+- Swift
 ```swift
 print("Hello, World!")
 ```
 
-
+- C
 ```c
 #include <stdio.h>
 
@@ -56,6 +63,7 @@ int main() {
 }
 ```
 
+- C++
 ```c++
 #include <iostream>
 
@@ -65,6 +73,7 @@ int main() {
 }
 ```
 
+- C#
 ```C#
 using System;
 
@@ -75,10 +84,56 @@ class Program {
 }
 ```
 
+- Rust
 ```rust
 fn main() {
     println!("Hello, World!");
 }
+```
+
+- GO
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
+```
+
+- PHP
+```php
+<?php
+echo "Hello, World!";
+?>
+```
+
+- Ruby
+```
+puts "Hello, World!"
+```
+
+- Perl
+```
+print "Hello, World!\n";
+```
+
+- SQL
+```sql
+SELECT 'Hello, World!';
+```
+
+- JSON
+```json
+{
+    "message": "Hello, World!"
+}
+```
+
+- YAML
+```yaml
+message: "Hello, World!"
 ```
 
 
