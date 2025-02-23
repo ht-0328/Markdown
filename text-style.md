@@ -16,6 +16,8 @@ _Italic_ or 「Ctrl + I」
 - 「~~打ち消し線~~」
 - 「`インラインコード`」
 
-※斜体は、日本語だとうまく表示されないので注意`rgb(9, 105, 218)`
+※斜体は、日本語だとうまく表示されないので注意　
 
 https://github.com/missing-semester-jp/missing-semester-jp.github.io/issues/18
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
