@@ -1,4 +1,4 @@
-# 見出し (Headings)
+# 📌 見出し (Heading)
 
 ## 書き方
 ```markdown
