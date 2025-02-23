@@ -2,6 +2,8 @@
 
 GitHubでMarkdownを使うための基本的な構文をまとめたチートシートです。
 
+詳細は、[基本的な書き方とフォーマットの構文](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)をご確認ください。
+
 ## セクション一覧
 - [見出し](./headings.md)
 - [テキスト装飾](./text-style.md)
