@@ -136,11 +136,39 @@ SELECT 'Hello, World!';
 message: "Hello, World!"
 ```
 
+- HTML
+```html
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+</body>
+</html>
+```
 
+- CSS
+```css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+```
 
+- XML
+```
+<message>Hello, World!</message>
+```
 
-
-
+- markdown
+```markdown
+# Hello, World!
+これはMarkdownの例です。
+```
 
 
 
