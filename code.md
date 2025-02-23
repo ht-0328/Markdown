@@ -110,12 +110,12 @@ echo "Hello, World!";
 ```
 
 - Ruby
-```
+```ruby
 puts "Hello, World!"
 ```
 
 - Perl
-```
+```perl
 print "Hello, World!\n";
 ```
 
@@ -160,7 +160,7 @@ body {
 ```
 
 - XML
-```
+```xml
 <message>Hello, World!</message>
 ```
 
