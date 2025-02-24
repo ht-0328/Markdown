@@ -8,8 +8,8 @@ GitHubでマーメイド記法を使って、グラフやチャートを書く�
 
 - [フローチャート](./mermaid/flowchart)
   - [上から下につなぐ](./mermaid/flowchart/top-to-down.md)
-  - [下から上につなぐ](./mermaid/flowchart/boottom-to-top.md)
-  - [左から右につなぐ](./mermaid/flowchart/leeft-to-right.md)
+  - [下から上につなぐ](./mermaid/flowchart/bottom-to-top.md)
+  - [左から右につなぐ](./mermaid/flowchart/left-to-right.md)
   - [右から左につなぐ](./mermaid/flowchart/right-to-left.md)
  
 
