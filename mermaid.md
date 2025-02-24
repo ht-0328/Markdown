@@ -7,10 +7,10 @@ GitHubでマーメイド記法を使って、グラフやチャートを書く�
 ## セクション一覧
 
 - [フローチャート](./mermaid/flowchart)
-  - [上から下](./mermaid/flowchart/top-to-down)
-  - [下から上](./mermaid/flowchart/boottom-to-top)
-  - [左から右](./mermaid/flowchart/leeft-to-right)
-  - [右から左](./mermaid/flowchart/right-to-left)
+  - [上から下](./mermaid/flowchart/top-to-down.md)
+  - [下から上](./mermaid/flowchart/boottom-to-top.md)
+  - [左から右](./mermaid/flowchart/leeft-to-right.md)
+  - [右から左](./mermaid/flowchart/right-to-left.md)
  
 
 ## 書き方
