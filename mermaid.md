@@ -11,6 +11,7 @@ GitHubでマーメイド記法を使って、グラフやチャートを書く�
     - [開始](./mermaid/flowchart/start.md)
     - [終了](./mermaid/flowchart/stop.md)
     - [データベース](./mermaid/flowchart/database.md)
+    - [ラベル](./mermaid/flowchart/label.md)
   - 【**つなげ方**】
     - [上から下につなぐ](./mermaid/flowchart/top-to-down.md)
     - [下から上につなぐ](./mermaid/flowchart/bottom-to-top.md)
