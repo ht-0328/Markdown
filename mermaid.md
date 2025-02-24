@@ -7,16 +7,22 @@ GitHubでマーメイド記法を使って、グラフやチャートを書く�
 ## セクション一覧
 
 - [フローチャート](./mermaid/flowchart)
-  - [上から下につなぐ](./mermaid/flowchart/top-to-down.md)
-  - [下から上につなぐ](./mermaid/flowchart/bottom-to-top.md)
-  - [左から右につなぐ](./mermaid/flowchart/left-to-right.md)
-  - [右から左につなぐ](./mermaid/flowchart/right-to-left.md)
+  - 【**要素（ノード・矢印・関係）**】
+  　- [開始](./mermaid/flowchart/start.md)
+    - [終了](./mermaid/flowchart/stop.md)
+    - [データベース](./mermaid/flowchart/database.md)
+  - 【**つなげ方**】
+    - [上から下につなぐ](./mermaid/flowchart/top-to-down.md)
+    - [下から上につなぐ](./mermaid/flowchart/bottom-to-top.md)
+    - [左から右につなぐ](./mermaid/flowchart/left-to-right.md)
+    - [右から左につなぐ](./mermaid/flowchart/right-to-left.md)
+    - [上から下、左から右につなぐ](./mermaid/flowchart/top-to-down-and-left-to-right.md)
  
 
 ## 書き方
 1. コードブロックに「**mermaid**」を付ける
 2. 「**flowchart**」または「**graph**」の後に、「**方向**」を示すオプションを付ける
-3. その下に、**要素（ノード・矢印・関係）** を記載していく
+3. その下に、**要素** を記載していく
 
 
 ```
