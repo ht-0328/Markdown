@@ -8,7 +8,7 @@ GitHubでマーメイド記法を使って、グラフやチャートを書く�
 
 - [フローチャート](./mermaid/flowchart)
   - 【**要素（ノード・矢印・関係）**】
-  　- [開始](./mermaid/flowchart/start.md)
+    - [開始](./mermaid/flowchart/start.md)
     - [終了](./mermaid/flowchart/stop.md)
     - [データベース](./mermaid/flowchart/database.md)
   - 【**つなげ方**】
@@ -17,6 +17,7 @@ GitHubでマーメイド記法を使って、グラフやチャートを書く�
     - [左から右につなぐ](./mermaid/flowchart/left-to-right.md)
     - [右から左につなぐ](./mermaid/flowchart/right-to-left.md)
     - [上から下、左から右につなぐ](./mermaid/flowchart/top-to-down-and-left-to-right.md)
+    - [開始 :arrow_right: 処理 :arrow_right: データベース :arrow_right: 終了](./mermaid/flowchart/top-to-down-and-left-to-right.md)
  
 
 ## 書き方
