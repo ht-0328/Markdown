@@ -1,5 +1,7 @@
 # 📌 上から下につなぐ
 
+:information_source: 「**TD**」は「**Top to Down**」のこと
+
 ## 書き方
 
 ```
