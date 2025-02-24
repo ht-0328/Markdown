@@ -6,6 +6,13 @@ GitHubでマーメイド記法を使って、グラフやチャートを書く�
 
 ## セクション一覧
 
+- [フローチャート](./mermaid/flowchart)
+  - [上から下](./mermaid/flowchart/top-to-down)
+  - [下から上](./mermaid/flowchart/boottom-to-top)
+  - [左から右](./mermaid/flowchart/leeft-to-right)
+  - [右から左](./mermaid/flowchart/right-to-left)
+ 
+
 ## 書き方
 1. コードブロックに「**mermaid**」を付ける
 2. 「**flowchart**」または「**graph**」の後に、「**方向**」を示すオプションを付ける
