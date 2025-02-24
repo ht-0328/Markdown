@@ -17,6 +17,12 @@
 
 - 画像（相対パス）
 ```
-![画像](./image/github-mark-white.png)
+![画像](./image/github-mark.png)
 ```
-![画像](./image/github-mark-white.png)
+![画像](./image/github-mark.png)
+
+- 画像（URL）
+```
+![画像](https://github.com/ht-0328/Markdown/blob/main/image/github-mark.png)
+```
+![画像](https://github.com/ht-0328/Markdown/blob/main/image/github-mark.png)
