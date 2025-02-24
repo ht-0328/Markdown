@@ -11,7 +11,7 @@ GitHubでMarkdownを使うための基本的な構文をまとめたチートシ
 - [コードブロック](./code.md)
 - [テーブル](./table.md)
 - [リンク & 画像](./links.md)
-- [引用 & 区切り線](./blockquote.md)
+- [引用](./quotes.md)
 - [絵文字 & 特殊記号](./emoji.md)
 - [脚注](./notes.md)
 
