@@ -1,9 +1,10 @@
 # 📌 マーメイド
 
-GitHubでマーメイド記法を使うための基本的な構文をまとめたチートシートです。
+GitHubでマーメイド記法を使って、グラフやチャートを書くための基本的な構文をまとめたチートシートです。
 
 詳細は、[Mermaid User Guide](https://mermaid.js.org/intro/getting-started.html)をご確認ください。
 
+## セクション一覧
 
 ## 書き方
 1. コードブロックに「**mermaid**」を付ける
